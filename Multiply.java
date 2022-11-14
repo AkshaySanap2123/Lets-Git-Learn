@@ -4,7 +4,7 @@ public class Multiply
 	{
 		int d = 3;
 		int e = 4;
-		System.out.println("Multiplication od d * e: " +(d*e));
+		System.out.println("Multiplication of d x e: " +(d*e));
 	}
 }
 
